@@ -13,3 +13,7 @@ If you notice something wrong or want to contribute a new asset, [create an issu
 ## Internal updates
 
 Whenever a new release is published here, we must make sure the [Design System](https://design.inmarsat.com/) is updated to reflect this, by updating the imagery url in the config as well as updating the examples within the site.
+
+## Licensing
+
+[MIT License](/LICENSE)

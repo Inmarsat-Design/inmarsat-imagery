@@ -4,7 +4,7 @@ Icons and logos for designing Inmarsat products based on the [Inmarsat Design Sy
 
 ## Usage
 
-Simply download the latest stable [release](https://github.com/Inmarsat-Design/inmarsat-imagery/releases) of this repo, and use the icons/logos in conjuction with the art direction set out in the [app](https://design.inmarsat.com/) for designing your products.
+Simply download the latest stable [release](https://github.com/Inmarsat-Design/inmarsat-imagery/releases) of this repo, and use the icons/logos in conjuction with the art direction set out in the [Design System](https://design.inmarsat.com/) for designing your products.
 
 ## Contribution
 
